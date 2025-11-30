@@ -1,0 +1,5 @@
+{
+  "name": "K8s Internal Deep Dive",
+  "description": "An interactive, visual exploration of Kubernetes Services, Storage, and Networking principles inspired by modern web design patterns.",
+  "requestFramePermissions": []
+}
